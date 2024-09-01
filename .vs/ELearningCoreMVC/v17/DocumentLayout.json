@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6B3E7E52-0F33-45D5-AF84-C3FFCC055C90}|ELearningCoreMVC\\ELearningCoreMVC.csproj|c:\\users\\shubham\\source\\repos\\elearningcoremvc\\elearningcoremvc\\views\\user\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B3E7E52-0F33-45D5-AF84-C3FFCC055C90}|ELearningCoreMVC\\ELearningCoreMVC.csproj|solutionrelative:elearningcoremvc\\views\\user\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3E7E52-0F33-45D5-AF84-C3FFCC055C90}|ELearningCoreMVC\\ELearningCoreMVC.csproj|c:\\users\\shubham\\source\\repos\\elearningcoremvc\\elearningcoremvc\\views\\user\\coursedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B3E7E52-0F33-45D5-AF84-C3FFCC055C90}|ELearningCoreMVC\\ELearningCoreMVC.csproj|solutionrelative:elearningcoremvc\\views\\user\\coursedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6B3E7E52-0F33-45D5-AF84-C3FFCC055C90}|ELearningCoreMVC\\ELearningCoreMVC.csproj|c:\\users\\shubham\\source\\repos\\elearningcoremvc\\elearningcoremvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B3E7E52-0F33-45D5-AF84-C3FFCC055C90}|ELearningCoreMVC\\ELearningCoreMVC.csproj|solutionrelative:elearningcoremvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B3E7E52-0F33-45D5-AF84-C3FFCC055C90}|ELearningCoreMVC\\ELearningCoreMVC.csproj|c:\\users\\shubham\\source\\repos\\elearningcoremvc\\elearningcoremvc\\views\\user\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6B3E7E52-0F33-45D5-AF84-C3FFCC055C90}|ELearningCoreMVC\\ELearningCoreMVC.csproj|solutionrelative:elearningcoremvc\\views\\user\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6B3E7E52-0F33-45D5-AF84-C3FFCC055C90}|ELearningCoreMVC\\ELearningCoreMVC.csproj|c:\\users\\shubham\\source\\repos\\elearningcoremvc\\elearningcoremvc\\data\\elearningcorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3E7E52-0F33-45D5-AF84-C3FFCC055C90}|ELearningCoreMVC\\ELearningCoreMVC.csproj|solutionrelative:elearningcoremvc\\data\\elearningcorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B3E7E52-0F33-45D5-AF84-C3FFCC055C90}|ELearningCoreMVC\\ELearningCoreMVC.csproj|c:\\users\\shubham\\source\\repos\\elearningcoremvc\\elearningcoremvc\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B3E7E52-0F33-45D5-AF84-C3FFCC055C90}|ELearningCoreMVC\\ELearningCoreMVC.csproj|solutionrelative:elearningcoremvc\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B3E7E52-0F33-45D5-AF84-C3FFCC055C90}|ELearningCoreMVC\\ELearningCoreMVC.csproj|c:\\users\\shubham\\source\\repos\\elearningcoremvc\\elearningcoremvc\\models\\paymentplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3E7E52-0F33-45D5-AF84-C3FFCC055C90}|ELearningCoreMVC\\ELearningCoreMVC.csproj|solutionrelative:elearningcoremvc\\models\\paymentplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,37 +86,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "ELearningCoreMVC\\Models\\Course.cs",
-              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\Models\\Course.cs",
-              "RelativeToolTip": "ELearningCoreMVC\\Models\\Course.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\Views\\User\\Payment.cshtml",
+              "RelativeDocumentMoniker": "ELearningCoreMVC\\Views\\User\\Payment.cshtml",
+              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\Views\\User\\Payment.cshtml",
+              "RelativeToolTip": "ELearningCoreMVC\\Views\\User\\Payment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T15:38:01.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ElearningCoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\Data\\ElearningCoreContext.cs",
+              "RelativeDocumentMoniker": "ELearningCoreMVC\\Data\\ElearningCoreContext.cs",
+              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\Data\\ElearningCoreContext.cs",
+              "RelativeToolTip": "ELearningCoreMVC\\Data\\ElearningCoreContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T06:38:23.622Z"
+              "WhenOpened": "2024-09-01T15:17:39.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentPlace.cs",
+              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\Models\\PaymentPlace.cs",
+              "RelativeDocumentMoniker": "ELearningCoreMVC\\Models\\PaymentPlace.cs",
+              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\Models\\PaymentPlace.cs",
+              "RelativeToolTip": "ELearningCoreMVC\\Models\\PaymentPlace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:16:36.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Course.cshtml",
-              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\Views\\User\\Course.cshtml",
-              "RelativeDocumentMoniker": "ELearningCoreMVC\\Views\\User\\Course.cshtml",
-              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\Views\\User\\Course.cshtml",
-              "RelativeToolTip": "ELearningCoreMVC\\Views\\User\\Course.cshtml",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAAFAAAAAKAAAA",
+              "Title": "CourseDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\Views\\User\\CourseDetail.cshtml",
+              "RelativeDocumentMoniker": "ELearningCoreMVC\\Views\\User\\CourseDetail.cshtml",
+              "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\Views\\User\\CourseDetail.cshtml",
+              "RelativeToolTip": "ELearningCoreMVC\\Views\\User\\CourseDetail.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADwAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T14:15:15.185Z"
+              "WhenOpened": "2024-09-01T08:28:11.215Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "ELearningCoreMVC\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\Controllers\\UserController.cs",
               "RelativeToolTip": "ELearningCoreMVC\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAwwF0AAAAJAAAA",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAywH0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T10:59:58.194Z",
               "EditorCaption": ""

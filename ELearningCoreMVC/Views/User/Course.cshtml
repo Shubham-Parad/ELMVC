@@ -71,7 +71,7 @@
                                     <label id="priceLabel">@d.Price</label>
                                 </span>
                                 <span class="text-white"><i class="fa fa-star mr-2"></i>4.5<small>(250)</small></span>
-                                <button class="trans" id="Button2">Get Details</button>
+                                <a class="trans" asp-controller="User" asp-action="CourseDetail" asp-route-id="@d.Id">Get Details</a>
                             </div>
                         </div>
                     </div>

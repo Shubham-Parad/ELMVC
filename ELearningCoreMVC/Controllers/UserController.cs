@@ -4,16 +4,20 @@ using Microsoft.AspNetCore.Mvc;
 using System.Net.Mail;
 using System.Net;
 using Microsoft.EntityFrameworkCore;
+using Razorpay.Api;
 
 namespace ELearningCoreMVC.Controllers
 {
     public class UserController : Controller
     {
         private readonly ElearningCoreContext db;
-        public UserController(ElearningCoreContext db) 
-        { 
-            this.db = db; 
+        public UserController(ElearningCoreContext db)
+        {
+            this.db = db;
         }
+
+        [BindProperty]
+        public PaymentPlace PaymentPlaces { get; set; }
 
         public IActionResult Index(Course c)
         {
@@ -66,7 +70,7 @@ namespace ELearningCoreMVC.Controllers
 
         public IActionResult About()
         {
-            return View(); 
+            return View();
         }
 
         public IActionResult Course(Course c)
@@ -78,15 +82,58 @@ namespace ELearningCoreMVC.Controllers
         [HttpPost]
         public async Task<IActionResult> Course(int dropdownCourse, string keyword)
         {
-            var filteredCourses = await db.Courses.Where(x=>x.Id == dropdownCourse).ToListAsync();
+            var filteredCourses = await db.Courses.Where(x => x.Id == dropdownCourse).ToListAsync();
 
             if (!string.IsNullOrEmpty(keyword))
             {
-                filteredCourses = filteredCourses.Where(x=>x.Cname.Contains(keyword,StringComparison.OrdinalIgnoreCase)).ToList();
+                filteredCourses = filteredCourses.Where(x => x.Cname.Contains(keyword, StringComparison.OrdinalIgnoreCase)).ToList();
             }
             return View(filteredCourses);
         }
 
+        [HttpPost]
+        public IActionResult CourseDetail(int id)
+        {
+            var course = db.Courses.Find(id);
+            var obj = new Course()
+            {
+                Cname = course.Cname,
+                Subname = course.Subname,
+                Price = course.Price
+            };
+            db.Courses.Add(obj);
+            db.SaveChanges();
+            return RedirectToAction("CourseDetail");
+        }
+
+        public IActionResult EnrollCourse(PaymentPlace p)
+        {
+            string KeyId = "rzp_test_4DrJJevYZkd0No";
+            string KeySecret = "3oX1Dvxlpy2wB3BGnDPxGtH8";
+
+            Random random = new Random();
+            string TransactionId = random.Next(0,100000).ToString();
+
+            Dictionary<string, object> input = new Dictionary<string, object>();
+
+            input.Add("amount",Convert.ToDecimal(PaymentPlaces.Price)*100);
+            input.Add("currency", "INR");
+            input.Add("receipt", TransactionId);
+
+            RazorpayClient client = new RazorpayClient(KeyId, KeySecret);
+            Razorpay.Api.Order order = client.Order.Create(input);
+
+            ViewBag.orderId = order["Pid"].ToString();
+
+            return View("Payment", db.PaymentPlaces);
+        }
+
+        public IActionResult 
+
+        public IActionResult AddToCart()
+        {
+            return View();
+        }
         public IActionResult MyCourse(Course c)
         {
             var data = db.Courses.ToList();
