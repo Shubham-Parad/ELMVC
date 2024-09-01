@@ -1,0 +1,1457 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ELearningCoreMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ELearningCoreMVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\Masstechedu.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\Masstechedu.png"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\about.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\bg-image.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\bg-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\courses-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\courses-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\courses-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\courses-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\courses-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\courses-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\courses-4.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\courses-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\courses-5.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\courses-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\courses-6.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\courses-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\courses-80x80.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\courses-80x80.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\feature.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\feature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\header.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\overlay-bottom.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\overlay-bottom.png"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\overlay-top.png",
+      "PackagePath": "staticwebassets\\Content\\Images\\overlay-top.png"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\page-header.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\page-header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\team-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\team-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\team-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\team-4.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\Images\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Content\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\et-line.eot"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\et-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\et-line.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\et-line.woff"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\roboto-bold-webfont.eot",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\roboto-bold-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\roboto-bold-webfont.svg",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\roboto-bold-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\roboto-bold-webfont.ttf",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\roboto-bold-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\roboto-bold-webfont.woff",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\roboto-bold-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\roboto-bold-webfont.woff2",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\roboto-bold-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\roboto-light-webfont.woff",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\roboto-light-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\roboto-light-webfont.woff2",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\roboto-light-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\roboto-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\roboto-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\roboto-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\roboto-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\robotocondensed-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\robotocondensed-regular-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\robotocondensed-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\robotocondensed-regular-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\robotocondensed-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\robotocondensed-regular-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\robotocondensed-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\robotocondensed-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\fonts\\robotocondensed-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\Content\\assets\\fonts\\robotocondensed-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\images\\bg-05.jpg",
+      "PackagePath": "staticwebassets\\Content\\assets\\images\\bg-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\images\\user.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\images\\vector.png",
+      "PackagePath": "staticwebassets\\Content\\assets\\images\\vector.png"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Content\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\20240709_213039_0000.png",
+      "PackagePath": "staticwebassets\\Content\\img\\20240709_213039_0000.png"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\Boy.png",
+      "PackagePath": "staticwebassets\\Content\\img\\Boy.png"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\Programmer.png",
+      "PackagePath": "staticwebassets\\Content\\img\\Programmer.png"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\bg-image.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\bg-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\courses-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\courses-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\courses-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\courses-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\courses-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\courses-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\courses-4.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\courses-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\courses-5.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\courses-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\courses-6.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\courses-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\courses-80x80.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\courses-80x80.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\feature.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\feature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\header.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\overlay-bottom.png",
+      "PackagePath": "staticwebassets\\Content\\img\\overlay-bottom.png"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\overlay-top.png",
+      "PackagePath": "staticwebassets\\Content\\img\\overlay-top.png"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\page-header.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\page-header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\team-1.png",
+      "PackagePath": "staticwebassets\\Content\\img\\team-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\Content\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Content\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\js\\Handle.js",
+      "PackagePath": "staticwebassets\\js\\Handle.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\SHUBHAM\\source\\repos\\ELearningCoreMVC\\ELearningCoreMVC\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ELearningCoreMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ELearningCoreMVC.props",
+      "PackagePath": "build\\ELearningCoreMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ELearningCoreMVC.props",
+      "PackagePath": "buildMultiTargeting\\ELearningCoreMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ELearningCoreMVC.props",
+      "PackagePath": "buildTransitive\\ELearningCoreMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
