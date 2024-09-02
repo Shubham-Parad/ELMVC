@@ -1,0 +1,47 @@
+﻿@model List<Cart>
+
+
+<script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+
+<div style="height: 100vh;">
+    <div class="container">
+        <table class="table table-bordered table-striped text-center">
+            <thead class="header-style">
+                <tr>
+                    <th>ID</th>
+                    <th>Course</th>
+                    <th>Subcourse</th>
+                    <th>Total Price</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var d in Model)
+                {
+                    <tr class="row-style">
+                        <td>@d.Pid</td>
+                        <td>@d.Course</td>
+                        <td>@d.Subcourse</td>
+                        <td>@d.Price</td>
+                        <td>
+                            <button class="btn btn-secondary" asp-action="deletecartitem" asp-controller="User">Remove</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="d-flex justify-content-between pt-5">
+        <div style="margin-left: 50px;">
+            <strong>Grand Total</strong>
+        </div>
+        <div style="margin-right: 50px;">
+            <strong><label>>@ViewBag.TotalPrice</label></strong>
+        </div>
+    </div>
+
+    <div class="d-flex justify-content-center pt-5">
+        <button class="btn btn-primary">Buy Now</button>
+    </div>
+</div>
